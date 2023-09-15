@@ -7,8 +7,8 @@ Odoo Venezuela
 
 ### Depdende de los modulos:
 - account_payment_group
-- account_witthholding
-- account_witthholding_automatic
+- account_withholding
+- account_withholding_automatic
 - account_ux
 
 
